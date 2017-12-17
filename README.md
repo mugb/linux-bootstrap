@@ -1,8 +1,7 @@
 # linux-bootstrap
 
 ```
-sudo apt-get install git
-sudo apt-get install vim-gnome
+sudo apt install git vim-gnome screen
 cp .vimrc ~/.vimrc
 cp .screenrc ~/.screenrc
 ```
